@@ -12,7 +12,7 @@ public class Gitgyak {
             
         }
     }
-    private static void van(){
+    private static void van1(){
            
     }
     
