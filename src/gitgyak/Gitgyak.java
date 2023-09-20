@@ -12,8 +12,8 @@ public class Gitgyak {
             
         }
     }
-    private static void van1(){
-           
+    private static void van(){
+           System.out.println("elso");
     }
     
 }
