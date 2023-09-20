@@ -13,7 +13,7 @@ public class Gitgyak {
         }
     }
     private static void van(){
-           
+           System.out.println("elso")
     }
     
 }
